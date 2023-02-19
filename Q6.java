@@ -1,3 +1,7 @@
+
+/*Q.6. Write  a  Java  Program  to  accept  the  string  input  from  user  Print  no  of 
+words , No of white spaces and total number of characters present in the 
+string. */
 import java.util.Scanner;
 
 public class Q6 {

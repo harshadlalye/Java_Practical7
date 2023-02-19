@@ -1,3 +1,5 @@
+
+// *Q.3. Write  a  Java  program  to  Use  Array  of  String  to  accept multiple  strings input and Print the string in sorting order.
 import java.util.Arrays;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+
+// *Q.5. Write a Java Program to accept the string input from user and print vowels present in the string.
 import java.util.Scanner;
 
 public class Q5 {

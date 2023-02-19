@@ -1,3 +1,5 @@
+
+// *Q.2. Write a Java Program to accept the string input from user and  check string is palindrome or not.
 import java.util.Scanner;
 
 public class Q2 {

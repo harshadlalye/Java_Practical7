@@ -1,3 +1,5 @@
+
+// *Q.8. Write a Java Program to accept the string input from user and store it in StringBulilder and check the Capacity of StringBulder.
 import java.util.Scanner;
 
 public class Q8 {

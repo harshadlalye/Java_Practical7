@@ -1,3 +1,6 @@
+/* Q.7. Write  a  Java  Program  to  accept  the  string  “Welcome to School of 
+Computer      science “ Check  whether  it  is  started  from  Welcome  and 
+ended with Science. */
 public class Q7 {
     public static void main(String[] args) {
         String originalString = "Welcome to School of Computer science";

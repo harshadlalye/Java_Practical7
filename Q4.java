@@ -1,3 +1,5 @@
+
+// *Q.4.  Write a Java Program to accept the string input from user and print all the string in reverse order use StringBuilder class.
 import java.util.Scanner;
 
 public class Q4 {

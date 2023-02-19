@@ -1,3 +1,5 @@
+
+// *Q.1. Write  a  Java  Program  to  accept  the  string  input  from  user  and  print Reverse of a String
 import java.util.Scanner;
 
 public class Q1 {

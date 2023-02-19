@@ -1,3 +1,6 @@
+/* Q.10.  Write a Java Program to accept the string to “MATHEMATICS” and print 
+Total number of different words possible using the word 
+“MATHEMATICS”. */
 public class Q10 {
     public static void main(String[] args) {
         String word = "MATHEMATICS";
